@@ -12,16 +12,18 @@ This repository is organized by TryHackMe rooms/modules (offered by MIT BWSI Cyb
 
 To find a specific set of notes or room, simply open the corresponding folder and browse the Markdown files for the room or topic you're looking for.
 
-#### TryHackMe room Folder Links:
+### TryHackMe Room Links
 
-1. [**Start Cybersecurity Journey**](https://github.com/vincenthuynh1409/Cybersecurity101-TryHackMe-Writeups/tree/main/Start%20Cybersecurity%20Journey)
-2. [**Linux Fundamentals**](https://github.com/vincenthuynh1409/Cybersecurity101-TryHackMe-Writeups/tree/main/Linux%20Fundamentals)
-3. [**Windows & Active Directory Fundamentals**](https://github.com/vincenthuynh1409/Cybersecurity101-TryHackMe-Writeups/tree/main/Windows%20%26%20Active%20Directory%20Fundamentals)
-4. [**Command Line**](https://github.com/vincenthuynh1409/Cybersecurity101-TryHackMe-Writeups/tree/main/Command%20Line)
-5. [**Networking**](https://github.com/vincenthuynh1409/Cybersecurity101-TryHackMe-Writeups/tree/main/Networking)
-6. [**Cryptography**](https://github.com/vincenthuynh1409/Cybersecurity101-TryHackMe-Writeups/tree/main/Cryptography)
-7. [**Exploitation Basics**](https://github.com/vincenthuynh1409/Cybersecurity101-TryHackMe-Writeups/tree/main/Exploitation%20Basics)
-8. [**Web Hacking**](https://github.com/vincenthuynh1409/Cybersecurity101-TryHackMe-Writeups/tree/main/Web%20Hacking)
+| # | Topic | Writeups |
+|---|---|---|
+| **1** | Start Cybersecurity Journey | [View Writeups](https://github.com/vincenthuynh1409/Cybersecurity101-TryHackMe-Writeups/tree/main/Start%20Cybersecurity%20Journey) |
+| **2** | Linux Fundamentals | [View Writeups](https://github.com/vincenthuynh1409/Cybersecurity101-TryHackMe-Writeups/tree/main/Linux%20Fundamentals) |
+| **3** | Windows & Active Directory Fundamentals | [View Writeups](https://github.com/vincenthuynh1409/Cybersecurity101-TryHackMe-Writeups/tree/main/Windows%20%26%20Active%20Directory%20Fundamentals) |
+| **4** | Command Line | [View Writeups](https://github.com/vincenthuynh1409/Cybersecurity101-TryHackMe-Writeups/tree/main/Command%20Line) |
+| **5** | Networking | [View Writeups](https://github.com/vincenthuynh1409/Cybersecurity101-TryHackMe-Writeups/tree/main/Networking) |
+| **6** | Cryptography | [View Writeups](https://github.com/vincenthuynh1409/Cybersecurity101-TryHackMe-Writeups/tree/main/Cryptography) |
+| **7** | Exploitation Basics | [View Writeups](https://github.com/vincenthuynh1409/Cybersecurity101-TryHackMe-Writeups/tree/main/Exploitation%20Basics) |
+| **8** | Web Hacking | [View Writeups](https://github.com/vincenthuynh1409/Cybersecurity101-TryHackMe-Writeups/tree/main/Web%20Hacking) |
 
 - - - 
 

@@ -1,7 +1,5 @@
 # TryHackMe Room Notes
 
-## Description:
-
 ### 👋 Introduction:
 
 Yoo, this repository contains my **personal notes and learning progress** from completing some **TryHackMe** rooms. It serves as a personal knowledge base to reinforce cybersecurity concepts and document my ongoing learning journey in **networking, Linux, security fundamentals, and offensive and defensive cybersecurity** :D

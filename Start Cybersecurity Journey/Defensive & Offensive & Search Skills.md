@@ -13,7 +13,7 @@
 
 ## Search Skills
 
-## Shodan
+### Shodan
 
 **Shodan** is a search engine for the Internet of Things (IoT). 
 - IoT is anything that is connected to the internet!
@@ -46,7 +46,7 @@ Task 2:
 
 **ANSWER**: `tryhackme.thm`
 
-## VirusTotal
+### VirusTotal
 
 **VirusTotal** collates results from over 70 antivirus engines and website scanners into a single interface. 
 - Submit a file, a URL, a domain, or a file hash. 
@@ -66,7 +66,7 @@ Task 3:
 
 **ANSWER:** 52
 
-## Vulnerability Databases (CVE)
+### Vulnerability Databases (CVE)
 
 The **Common Vulnerabilities and Exposures (CVE)** program is the closest thing the industry has to a universal dictionary of known vulnerabilities.
 
@@ -97,15 +97,15 @@ These identifiers function as a reference point among vendors, researchers, secu
 
 **ANSWER:** 10
 
-## Technical Documentation (MAN)
+### Technical Documentation (MAN)
 
-### Product and Tool Documentation
+#### Product and Tool Documentation
 
 Each major security tool or platform provides its own documentation, which is the most reliable and up-to-date than any third-party tutorials.
 
 When you're troubleshooting unexpected behavior or trying to understand how to use a tool in a certain way, the official documentation should always be your first stop - not your last.
 
-### Linux "Man" Pages
+#### Linux "Man" Pages
 
 Have you ever come across a command-line tool or command that you're not familiar with? 
 
@@ -142,7 +142,7 @@ Task 5:
 
 **ANSWER:** `nc host.example.com 42`
 
-## GitHub
+### GitHub
 
 **GitHub** can be a great resource for staying updated on the latest threats and vulnerabilities. - Researchers often publish **proof-of-concept (PoC)** code, exploitation tools, and detailed technical reports there, which are usually faster than official channels. 
 
